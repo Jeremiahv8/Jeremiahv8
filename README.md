@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jeremiahv8
-- 👀 I’m interested in ... DevOps
-- 🌱 I’m currently learning ... SQL Server Database Administration
-- 💞️ I’m looking to collaborate on ... Multistore Platform Services
-- 📫 How to reach me ... At any of the following: 
+- 👋 username @Jeremiahv8
+- 👀 Department of Software - Developer Operations
+- 🌱 Aegean Technology Solutions - Software Developer
+- 💞️ Partnership - Microsoft Azure and Pylon Support Services
+- 📫 For support initiate contact at any of the following: 
 > jeremiahv8@hotmail.com (Personal)
 
 > jeremiah.cruickshank@aegeantt.com (DevOps)
