@@ -7,8 +7,6 @@
 
 > jeremiah.cruickshank@aegeantt.com (DevOps)
 
-> jeremiah.cruickshank@udlvr.com (APIs)
-
 > secretary@corporates.app (General Information)
 
 > support@gopylonservices.com (Speak to our supervisor - Warren Gill here https://www.linkedin.com/in/warren-gill-136903179/)
