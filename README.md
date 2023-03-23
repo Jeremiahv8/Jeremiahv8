@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... SQL Server Database Administration
 - 💞️ I’m looking to collaborate on ... Multistore Platform Services
 - 📫 How to reach me ... At any of the following: 
-> jeremiahv8@hotmail.com (Personal)
+> jeremiah.cruickshank@hotmail.com (Personal)
 
 > jeremiah.cruickshank@aegeantt.com (DevOps)
 
