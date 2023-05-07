@@ -9,9 +9,9 @@
 
 > secretary@corporates.app (General Information)
 
-> support@gopylonservices.com (Speak to our supervisor - Warren Gill here https://www.linkedin.com/in/warren-gill-136903179/)
+> support@gopylonservices.com (Pylon Support Services Chief Executive Officer Warren Gill - https://www.linkedin.com/in/warren-gill-136903179/)
 
-Here we manage server resources for Programming, Administration Platforms, Software Industry Database and the Pylon Cloud VPS Server Software which is used for providing:
+Pylon Support Services uses Azure to manage server resources for Programming, Administration Platforms, Software Industry Database and the Pylon Cloud VPS Server Software which is used for providing:
 1.  Knowledge Hub Backups and Integration
 2.  Offline Landing Pages and Web Portals
 3.  Virtual Private Network Setup
