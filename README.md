@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jeremiahv8
-- 👀 I’m interested in ... DevOps
-- 🌱 I’m currently learning ... SQL Server Database Administration
-- 💞️ I’m looking to collaborate on ... Multistore Platform Services
+- 👋 ID - 25144
+- 👀 Developer Operations Manager - Jeremiah Cruickshank
+- 🌱 Microsoft Azure Resource - Corporates
+- 💞️ I’m looking to collaborate with the UDLVR API Resource and C7 Multistore Platform
 - 📫 How to reach me ... At any of the following: 
 > jeremiah.cruickshank@hotmail.com (Personal)
 
